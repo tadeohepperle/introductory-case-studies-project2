@@ -1,0 +1,123 @@
+
+
+
+# 1 Introduction
+
+- house pricing important, effects everyones lives.
+- house prices take up to __ % of someones income.
+- often are a factor when diiciding where to live.
+
+- content and goal: compare rent prices in 4 areas of Ruhrgebiet Germany: __,__,__,__ and conclude if the differences are statistically significant.
+- for this data from Immobilienscout24 is used. What is Immobilienscout24? dataset contains rental price per quare meter, 50 properties sampled for each of the 4 areas.
+- First an ANOVA will conclude if there is any mean difference at all.
+- Secondly we test the individual differences between all cities.
+- Cental Results: _____
+
+# 2 Problem Statement
+
+# 2.1 description of dataset
+- data originally from immobilienscout.
+--- what is Immobilienscout24
+--- who founded it? How do they make money?
+--- keep inflation in mind.   
+- subset of data from kaggle.
+- observational
+200 entries, 50 for each city: Bochum, Dortmund, Duisburg, Essen
+- randomly sampled from larger data pool
+- in Germany as of February 20, 2020. 
+- Dependent variable : rental price per square meter
+Independent variable: regions (consist of 4 populations Bochum, Dortmund, Duisburg, Essen)
+- Cover all kind of properties with variable size. WE DO NOT KNOW ABOUT THIS.
+- variables: price per square meter in euros. Referred to as price.
+- meaning: 
+- no missing data.
+- quality of data:
+- metric data
+- properties with cheaper rent probably not enlisted on site
+- true prices what people pay can differ from that.
+- also this is just cold cost, which needs to be kept in mind
+- sample size quite low, so variation from this is expected.
+- unknown how balconies, roof slopes and other features are factored in.
+---- though no suspicion that those features might be differently distributed among the cities.
+
+
+# 2.2 descriptive of objectives of the report:
+
+
+- find out if price varies between cities. For this a comparision of the mean can be made. To see if significant, conduct anova.
+- is the same as asking how much of the variance in the data can be explained by only knowing the city.
+- additionally we want to know between which cities in particular the mean price of living is different.
+- for this do pairwise comparisions with corrected and uncorrected alpha.
+
+3. statistical methods
+
+3.1. Hypothesis testing
+- calculating a "Statistic" T from the data.
+- under the assumption that H0 holds, T would follow a specific distribution. If our realized T is quite extrem (so to speak unlikely for this distribution) we would conclude that the data was likely no sampled from this distribution. In this case we reject H0. 
+That means, if the underlying H0 distribution is true we can still by chance make the error to reject H0, but only rarely. This is called the alpa error. aplha is a value that is set, so that in case H0 true, only in alpha*100% of samples from this distribution we would reject H0 even though it is true.
+- beta error
+- power
+- relationship between sample size, alpha and beta and power.
+
+
+Explain: 
+        Test statistic is a sample statistic whose sampling distribution can be specified for both the null and alternative hypothesis case (example :mean).  After specifying the appropriate significance level of α, the sampling distribution of this statistic is used to define the rejection region. 
+        Rejection region is the range of values of a sample statistic that will lead to rejection of the null hypothesis
+        α: denotes the probability of making a type I error(A type I error occurs when we incorrectly reject H0)
+        p value is the probability of committing a type I error if the actual sample value of the statistic is used as the boundary of the rejection region.
+
+3.2. ANOVA
+- Testing Mean differences between groups. 
+- uses sum of squares decomposition to split variance between variance within and between groups. Idea: a difference in mean of groups, also causes the variance between groups to rise. 
+SQA + SQR = SQT
+
+MQA
+MQR
+
+F = .../....
+
+Under the assumption H0 that mu1 = mu2 = mu3... F will follow an F distribution with parameters ...
+Now we can just look at the 1-a percentile of such an F distribution to find critical value.
+If F greater than Fcrit: there is difference between any groups.
+but no statement between which groups.
+Therefore further testing is needed:
+For example an anova with just two groups yields the same result as a two sided, two sample t test for indepentent samples. 
+What a t-test is will not be introduced here, as the anova is enough to answer all questions posed in this report.
+
+- requirements for anova:
+            - homoskedastiziät (same variance)
+            - residuals normally distributed.
+            - independence
+
+3.3. bonferroni correction
+
+When doing multiple testing, each test holds a risk of resulting in alpha error. This cumulates. The more tests, the more likely it is that at least one will be alpha error.
+TO adress this, a family wise alpha of usually 0.05 will be split into smaller alphas for each test, so that the cumulative risk of alpha error in any of them stays <= alpha family wise.
+One method of doing so is the bonferroni method:
+a_r =  a_fam / k 
+where k is number of tests.
+
+3.4. qqplots
+
+- compare two distributions in terms of their quantiles
+- usually used to compare distribution of a sample with a theoratical distribution
+- line at x=y. If almost all points lie on the line it signifies distributions are equal
+- tend to be more different in t
+f.example.
+
+3.5 Software used:
+
+pandas, matplotlib, scipy
+
+
+
+# 4 Results
+
+
+explain null hypothesis for all tests.
+
+
+
+
+
+# 2.2 Objectives of the project

@@ -1,0 +1,81 @@
+\documentclass[12 pt]{scrartcl}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{amsmath,amssymb,amsfonts,amsthm,mathtools}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage{lmodern}
+\usepackage{dsfont}
+\usepackage{bbm}
+\usepackage[round]{natbib}
+\usepackage{color} 
+\usepackage[defaultlines=2,all]{nowidow}
+\usepackage{caption}
+\usepackage[labelformat=simple]{subcaption}
+\usepackage{makecell}
+\renewcommand\thesubfigure{(\alph{subfigure})}
+
+\setlength\parindent{0pt}
+\setlength{\parskip}{6pt plus 1pt minus 1pt}
+
+\newcommand{\red}{\textcolor{red}}
+
+
+\begin{document}
+
+\begin{titlepage}
+  \centering
+  {\scshape\LARGE TU Dortmund \par}
+  \vspace{1cm}
+  {\scshape\Large Introductory Case Studies \par}
+  \vspace{2cm}
+  {\huge\bfseries Project 2: Comparison of rental prices in the Ruhr area\par}
+  \vspace{2cm}
+  {\Large Lecturers:\\
+    Prof.\ Dr.\ Sonja Kuhnt\\
+    Dr.\ Paul Wiemann\\
+    Dr.\ Birte Hellwig\\
+    M.\ Sc.\ Hendrik Dohme \par}
+  \vspace{1cm}
+  {\Large Author: Tadeo Hepperle \par}
+  \vspace{0.5 cm}
+  {\Large Group number: 28\par}
+  \vspace{0.5 cm}
+  {\Large Group members: Dhanya Zacharias, Imene Kolli, Vanlal Peka, Sara Zhara, Tadeo Hepperle}
+  \vfill
+  {\large \today\par}
+\end{titlepage}
+
+
+\tableofcontents
+
+\cleardoublepage
+
+\section{Introduction}
+
+Everyone needs to have a place to live. That is why rent and housing prices affect almost everyone and play a huge role in ones life. Data suggests, that the average German spends XXXX percent of their income on rent and mortgage (source: XXXXX). This makes local rental prices an important factor in deciding where to live, especially in times where real estate prices kept rising since 20XXX (source: XXXXX).
+In this project we will take a look at rental prices in the 4 largest cities of the ruhr area (Dortmund, Duisburg, Bochum and Essen) and analyze whether or not rental prices differ between those regions. For this, data from the web platform Immobilienscout24 was taken. Immobilienscout24 brings landlords and real estate firms together with potential tenants and provides transparency in terms of prices. For each of the 4 cities, 50 properties were sampled. An Analysis of Variance (ANOVA) was run on this data, to see if any of the cities differ in the mean reantal price. Result: XXXXXX.
+After that, we conducted 6 bonferroni-corrected two group ANOVAs for all possible pairs of cities, to find out if there are significant differences between the rental price of two designated places. This yielded the result, that XXXXXXXXXXXXXXXXXXXXXXXXXX.
+First, in Section 3 an overview is given on how the data was collected and its quality is asessed. Also we present the goals of the project. In Section 3 the statistical and computational methods will be discussed, in particular the concept of hypothesis testing and how an Analysis of Variance works.
+Section 4 displays the data analysis results, where we find out which differences in rental prices between cities turned out to be significant. Finally Section 5 gives a brief summary and highlights potential implications of the findings for people that might want to rent a property in the Ruhr area.
+
+\section{Problem statement}
+
+We analyzed a dataset containing the rental prices of 200 properties in the Ruhr area to find out if there are differences in the mean rental prices between Dortmund, Duisburg, Bochum and Essen.
+
+\subsection{Description of the dataset}
+
+
+\newpage
+\addcontentsline{toc}{section}{Bibliography}
+\renewcommand\refname{Bibliography}
+\bibliographystyle{plainnat}
+\bibliography{references}
+
+\newpage
+\appendix
+\addsec{Appendix}
+\subsection*{A \ Additional figures}
+\addcontentsline{toc}{subsection}{A \hspace*{0.15cm} Additional figures}
+\end{document}

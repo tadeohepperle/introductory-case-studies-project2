@@ -1,0 +1,8 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {section}{\numberline {2}Problem statement}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Description of the dataset}{3}{}%
+\contentsline {section}{Bibliography}{4}{}%
+\contentsline {section}{\nonumberline Appendix}{5}{}%
+\contentsline {subsection}{A \hspace *{0.15cm} Additional figures}{5}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
