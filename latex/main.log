@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.2)  6 DEC 2021 20:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.2)  8 DEC 2021 09:29
 entering extended mode
 **"t:/Daten/Studium Msc Data Science/Semester I/Introductory Case Studies/introductory-case-studies-project2/latex/main.tex"
 (t:/Daten/Studium Msc Data Science/Semester I/Introductory Case Studies/introductory-case-studies-project2/latex/main.tex
@@ -496,23 +496,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
  [2] [3
 
-] (main.bbl
-
-Package natbib Warning: Empty `thebibliography' environment on input line 8.
-
-) [4] [5] (main.aux) ) 
+] [4] [5] [6] [7] (main.bbl) [8] [9] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 10259 strings out of 478927
- 185591 string characters out of 2862392
- 626215 words of memory out of 3000000
- 27942 multiletter control sequences out of 15000+600000
- 451251 words of font info for 57 fonts, out of 8000000 for 9000
+ 10268 strings out of 478927
+ 185732 string characters out of 2862392
+ 630272 words of memory out of 3000000
+ 27950 multiletter control sequences out of 15000+600000
+ 455513 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,7n,108p,10734b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on main.pdf (5 pages, 144552 bytes).
+ 108i,8n,108p,10734b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
+Output written on main.pdf (9 pages, 230606 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

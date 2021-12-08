@@ -1,8 +1,12 @@
 \babel@toc {english}{}\relax 
 \contentsline {section}{\numberline {1}Introduction}{3}{}%
 \contentsline {section}{\numberline {2}Problem statement}{3}{}%
-\contentsline {subsection}{\numberline {2.1}Description of the dataset}{3}{}%
-\contentsline {section}{Bibliography}{4}{}%
-\contentsline {section}{\nonumberline Appendix}{5}{}%
-\contentsline {subsection}{A \hspace *{0.15cm} Additional figures}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Description of the dataset}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Objectives of the report}{4}{}%
+\contentsline {section}{\numberline {3}Statistical Methods}{5}{}%
+\contentsline {subsection}{\numberline {3.1}The concept of hypothesis testing}{5}{}%
+\contentsline {subsection}{\numberline {3.2}One-way ANOVA}{6}{}%
+\contentsline {section}{Bibliography}{8}{}%
+\contentsline {section}{\nonumberline Appendix}{9}{}%
+\contentsline {subsection}{A \hspace *{0.15cm} Additional figures}{9}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
