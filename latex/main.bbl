@@ -1,13 +1,44 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{6}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
+\bibitem[der~deutschen Wirtschaft Köln Medien~GmbH(2019)]{deutschlandinzahlen}
+Institut der~deutschen Wirtschaft Köln Medien~GmbH.
+\newblock Immobilienpreisindex: Deutschland in zahlen, 2019.
+\newblock URL
+  \url{https://www.deutschlandinzahlen.de/tab/deutschland/finanzen/preise/immobilienpreisindex}.
+
+\bibitem[Eckstein(2006)]{eckstein2006angewandte}
+Peter~P Eckstein.
+\newblock \emph{Angewandte Statistik mit SPSS: Praktische Einf{\"u}hrung
+  f{\"u}r Wirtschaftswissenschaftler}.
+\newblock Springer-Verlag, 2006.
+
 \bibitem[Eid et~al.(2017)Eid, Gollwitzer, and Schmitt]{eid2017statistik}
 Michael Eid, Mario Gollwitzer, and Manfred Schmitt.
 \newblock \emph{Statistik und Forschungsmethoden}.
 \newblock Beltz, 2017.
+
+\bibitem[Kaggle()]{kaggle}
+Kaggle.
+\newblock Apartment rental offers in germany.
+\newblock
+  \url{https://www.kaggle.com/corrieaar/apartment-rental-offers-in-germany}.
+
+\bibitem[Statista(2019)]{statistarent}
+Statista.
+\newblock Monatliche ausgaben privater haushalte in deutschland für
+  wohnungsmieten von 2009 bis 2019, 2019.
+\newblock URL
+  \url{https://de.statista.com/statistik/daten/studie/868734/umfrage/monatliche-mietkosten-privater-haushalte-in-deutschland/}.
+
+\bibitem[Statista(2020)]{statista}
+Statista.
+\newblock Außenumsatz von immobilienscout24 in den jahren 2019 und 2020, 2020.
+\newblock URL
+  \url{https://de.statista.com/statistik/daten/studie/543042/umfrage/umsatz-von-immobilienscout24/}.
 
 \end{thebibliography}

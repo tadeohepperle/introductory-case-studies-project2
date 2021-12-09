@@ -671,18 +671,69 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 OUTPUT main.toc
+INPUT C:\Program Files\MiKTeX\tex\latex\ucs\uni-32.def
+INPUT C:\Program Files\MiKTeX\tex\latex\ucs\uni-32.def
+INPUT C:\Program Files\MiKTeX\tex\latex\ucs\uni-32.def
+INPUT C:\Program Files\MiKTeX\tex\latex\ucs\uni-32.def
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ts1-lmr12.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\ucs\uni-0.def
+INPUT C:\Program Files\MiKTeX\tex\latex\ucs\uni-0.def
+INPUT C:\Program Files\MiKTeX\tex\latex\ucs\uni-0.def
+INPUT C:\Program Files\MiKTeX\tex\latex\ucs\uni-0.def
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmr8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT .\images\boxplot.png
+INPUT images\boxplot.png
+INPUT .\images\boxplot.png
+INPUT .\images\boxplot.png
+INPUT .\images\boxplot.png
+INPUT .\images\boxplot.png
+INPUT .\images\qqplot-Dortmundc.png
+INPUT images\qqplot-Dortmundc.png
+INPUT .\images\qqplot-Dortmundc.png
+INPUT .\images\qqplot-Dortmundc.png
+INPUT .\images\qqplot-Dortmundc.png
+INPUT .\images\qqplot-Dortmundc.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
+INPUT .\images\qqplot-Duisburgc.png
+INPUT images\qqplot-Duisburgc.png
+INPUT .\images\qqplot-Duisburgc.png
+INPUT .\images\qqplot-Duisburgc.png
+INPUT .\images\qqplot-Duisburgc.png
+INPUT .\images\qqplot-Duisburgc.png
+INPUT .\images\qqplot-Bochumc.png
+INPUT images\qqplot-Bochumc.png
+INPUT .\images\qqplot-Bochumc.png
+INPUT .\images\qqplot-Bochumc.png
+INPUT .\images\qqplot-Bochumc.png
+INPUT .\images\qqplot-Bochumc.png
+INPUT .\images\qqplot-Essenc.png
+INPUT images\qqplot-Essenc.png
+INPUT .\images\qqplot-Essenc.png
+INPUT .\images\qqplot-Essenc.png
+INPUT .\images\qqplot-Essenc.png
+INPUT .\images\qqplot-Essenc.png
 INPUT .\main.bbl
 INPUT main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmtt12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
 INPUT main.aux
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
-INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
-INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-mathex.enc
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-mathex.enc
+INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-ts1.enc
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
@@ -695,10 +746,14 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmmi6.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmmi6.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmmi8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmmi8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmr17.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmr17.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmr6.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmr6.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmr8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmr8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmri12.pfb
@@ -707,3 +762,7 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmsy10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmsy6.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmsy6.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmtt12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmtt12.pfb

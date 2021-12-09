@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.2)  8 DEC 2021 09:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.2)  9 DEC 2021 23:04
 entering extended mode
 **"t:/Daten/Studium Msc Data Science/Semester I/Introductory Case Studies/introductory-case-studies-project2/latex/main.tex"
 (t:/Daten/Studium Msc Data Science/Semester I/Introductory Case Studies/introductory-case-studies-project2/latex/main.tex
@@ -494,21 +494,116 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [2] [3
+ [2] (C:\Program Files\MiKTeX\tex/latex/ucs\uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 59.
+ (C:\Program Files\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) (C:\Program Files\MiKTeX\tex/latex/ucs\uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+) [3
 
-] [4] [5] [6] [7] (main.bbl) [8] [9] (main.aux) ) 
+] [4] [5] [6] [7] [8]
+<./images/boxplot.png, id=41, 361.35pt x 216.81pt>
+File: ./images/boxplot.png Graphic file (type png)
+<use ./images/boxplot.png>
+Package pdftex.def Info: ./images/boxplot.png  used on input line 171.
+(pdftex.def)             Requested size: 295.76807pt x 177.46114pt.
+ [9]
+<./images/qqplot-Dortmundc.png, id=46, 337.26pt x 289.08pt>
+File: ./images/qqplot-Dortmundc.png Graphic file (type png)
+<use ./images/qqplot-Dortmundc.png>
+Package pdftex.def Info: ./images/qqplot-Dortmundc.png  used on input line 201.
+(pdftex.def)             Requested size: 179.24963pt x 153.64394pt.
+<./images/qqplot-Duisburgc.png, id=47, 337.26pt x 289.08pt>
+File: ./images/qqplot-Duisburgc.png Graphic file (type png)
+<use ./images/qqplot-Duisburgc.png>
+Package pdftex.def Info: ./images/qqplot-Duisburgc.png  used on input line 207.
+(pdftex.def)             Requested size: 179.24963pt x 153.64394pt.
+<./images/qqplot-Bochumc.png, id=48, 337.26pt x 289.08pt>
+File: ./images/qqplot-Bochumc.png Graphic file (type png)
+<use ./images/qqplot-Bochumc.png>
+Package pdftex.def Info: ./images/qqplot-Bochumc.png  used on input line 213.
+(pdftex.def)             Requested size: 179.24963pt x 153.64394pt.
+<./images/qqplot-Essenc.png, id=49, 337.26pt x 289.08pt>
+File: ./images/qqplot-Essenc.png Graphic file (type png)
+<use ./images/qqplot-Essenc.png>
+Package pdftex.def Info: ./images/qqplot-Essenc.png  used on input line 219.
+(pdftex.def)             Requested size: 179.24963pt x 153.64394pt.
+ [10 <./images/boxplot.png>] [11 <./images/qqplot-Dortmundc.png> <./images/qqplot-Duisburgc.png> <./images/qqplot-Bochumc.png> <./images/qqplot-Essenc.png>]
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 255.
+
+
+Overfull \hbox (14.31444pt too wide) in paragraph at lines 264--274
+ [][] 
+ []
+
+[12] [13] [14] (main.bbl
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 12.
+ (C:\Program Files\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 9--13
+[]\T1/lmr/m/n/12 Institut der deutschen Wirtschaft Köln Me-dien GmbH.  Im-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--13
+\T1/lmr/m/n/12 mo-bilien-preisin-dex: Deutsch-land in zahlen, 2019.  URL
+ []
+
+
+Overfull \hbox (104.10544pt too wide) in paragraph at lines 9--13
+\T1/lmtt/m/n/12 https://www.deutschlandinzahlen.de/tab/deutschland/finanzen/preise/immobilienpreisindex\T1/lmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 15--19
+[]\T1/lmr/m/n/12 Peter P Eck-stein.  \T1/lmr/m/it/12 Ange-wandte Statis-tik mit SPSS: Prak-tis-che Ein-führung für
+ []
+
+
+Overfull \hbox (192.77835pt too wide) in paragraph at lines 26--30
+[]\T1/lmr/m/n/12 Kaggle.  Apart-ment rental of-fers in ger-many.  \T1/lmtt/m/n/12 https://www.kaggle.com/corrieaar/apartment-rental-offers-in-germany\T1/lmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--37
+[]\T1/lmr/m/n/12 Statista.  Monatliche aus-gaben pri-vater haushalte in deutsch-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--37
+\T1/lmr/m/n/12 land für woh-nungsmi-eten von 2009 bis 2019, 2019.  URL
+ []
+
+
+Overfull \hbox (295.52353pt too wide) in paragraph at lines 32--37
+\T1/lmtt/m/n/12 https://de.statista.com/statistik/daten/studie/868734/umfrage/monatliche-mietkosten-privater-haushalte-in-deutschland/\T1/lmr/m/n/12 . 
+ []
+
+
+Overfull \hbox (128.80545pt too wide) in paragraph at lines 39--43
+\T1/lmtt/m/n/12 https://de.statista.com/statistik/daten/studie/543042/umfrage/umsatz-von-immobilienscout24/\T1/lmr/m/n/12 . 
+ []
+
+) [15] [16] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 10268 strings out of 478927
- 185732 string characters out of 2862392
- 630272 words of memory out of 3000000
- 27950 multiletter control sequences out of 15000+600000
- 455513 words of font info for 58 fonts, out of 8000000 for 9000
+ 11186 strings out of 478927
+ 197663 string characters out of 2862392
+ 635585 words of memory out of 3000000
+ 28845 multiletter control sequences out of 15000+600000
+ 462188 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,8n,108p,10734b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (9 pages, 230606 bytes).
+ 108i,12n,108p,10734b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (16 pages, 539880 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
+ 160 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
